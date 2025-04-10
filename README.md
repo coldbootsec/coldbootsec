@@ -2,6 +2,13 @@
 
 I build open source security tools that help catch misconfigurations before they hit production.  
 Focused on DevSecOps, cloud infrastructure, and automation for people who ship real systems.
+<details>
+<summary><strong>Contact</strong></summary>
+
+- Email: or1eq1@droptable.email  
+- Create an issue or discussion on one of my repos
+</details>
+
 
 ## What I Work On
 
@@ -25,13 +32,6 @@ Security should be built-in, not tacked on.
 Least privilege should be the default.  
 Good security scales with automation, not headcount.  
 Make the secure path the easy one.
-
-<details>
-<summary><strong>Contact</strong></summary>
-
-- Email: or1eq1@droptable.email  
-- Create an issue or discussion on one of my repos
-</details>
 
 ## Stack
 
