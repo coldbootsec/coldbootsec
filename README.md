@@ -26,10 +26,12 @@ Least privilege should be the default.
 Good security scales with automation, not headcount.  
 Make the secure path the easy one.
 
-## Contact
+<details>
+<summary><strong>Contact</strong></summary>
 
 - Email: or1eq1@droptable.email  
 - Create an issue or discussion on one of my repos
+</details>
 
 ## Stack
 
