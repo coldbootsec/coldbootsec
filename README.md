@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I’m @coldbootsec
 
-<!--
-**coldbootsec/coldbootsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build open source security tools that help catch misconfigurations before they hit production.  
+Focused on DevSecOps, cloud infrastructure, and automation for people who ship real systems.
 
-Here are some ideas to get you started:
+## What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- IAM policy scanning and enforcement
+- Secure cloud infrastructure and CI pipelines
+- Kubernetes hardening and observability
+- Zero Trust architecture for production environments
+- OSS-first security workflows and compliance tooling
+
+## Projects
+
+- [secure-iam-lint](https://github.com/coldbootsec/secure-iam-lint)  
+  A simple CLI and CI-friendly scanner to catch risky IAM policies before they’re deployed
+
+- More tools coming soon  
+  You’ll know when they drop
+
+## Security Philosophy
+
+Security should be built-in, not tacked on.  
+Least privilege should be the default.  
+Good security scales with automation, not headcount.  
+Make the secure path the easy one.
+
+## Contact
+
+- Email: or1eq1@droptable.email  
+- Create an issue or discussion on one of my repos
+
+## Stack
+
+Python, Bash, GitHub Actions, CloudTrail, Trivy, Checkov, CrowdStrike, Pulumi, Vault, EKS, YAML, and anything that lets me sleep better at night
